@@ -14,4 +14,4 @@ During the class, we've solved the SIR model in **Octave**. Mathematical epidemi
   2. I - Infected
   3. R - Recovered
 
-The model presumes an ordinary differential equation (ODE) solved on **SIR_model.m**, and more about it can be accessed on: "Modelos matemáticos de equações diferenciais ordinárias aplicados àepidemiologia", BARROS, A. M. R., UFLA/MG.
+The model presumes an ordinary differential equation (ODE) solved on **SIR_model.m**, and more about it can be accessed on: "Modelos matemáticos de equações diferenciais ordinárias aplicados à epidemiologia", BARROS, A. M. R., UFLA/MG.
