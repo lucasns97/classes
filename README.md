@@ -21,4 +21,4 @@ $$begin{cases}
 \frac{dR}{dt} = \gamma I
 end{cases}$$
 
-![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
+![equation](latex.codecogs.com/gif.download?%5Cfrac%7BdS%7D%7Bdt%7D%20%3D%20-%5Cbeta%20SI)  
