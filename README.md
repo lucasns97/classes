@@ -13,6 +13,7 @@ During the class, we've solved the SIR model in **Octave**. Mathematical epidemi
   1. S - Susceptible
   2. I - Infected
   3. R - Recovered
+
 The model presumes the ordinary differential equation (ODE) below, and more about it can be accessed on: "Modelos matemáticos de equações diferenciais ordinárias aplicados àepidemiologia", BARROS, A. M. R., UFLA/MG.
 
 $$begin{cases}
@@ -21,4 +22,4 @@ $$begin{cases}
 \frac{dR}{dt} = \gamma I
 end{cases}$$
 
-![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+![equation](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7BdS%7D%7Bdt%7D%20%3D%20-%5Cbeta%20SI%0A&bc=White&fc=Black&im=gif&fs=12&ff=arev&edit=0)
