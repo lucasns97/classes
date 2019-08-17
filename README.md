@@ -20,3 +20,5 @@ $$begin{cases}
 \frac{dI}{dt} = \beta SI -\gamma I\\
 \frac{dR}{dt} = \gamma I
 end{cases}$$
+
+![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
